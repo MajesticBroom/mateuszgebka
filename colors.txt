@@ -1,0 +1,2 @@
+Main dark color - rgb(16, 32, 47) | #10202f - Dark Blue
+Main light color - rgb(206, 217, 230) | #ced9e6 - Light Blue
