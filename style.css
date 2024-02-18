@@ -7,8 +7,36 @@
 body {
     background-color: rgb(16, 32, 47);
     color: rgb(206, 217, 230);
+    margin: 0;
+
+    display: flex;
+    justify-content: center;
 }
 
 img {
     width: 30px;
+}
+
+
+.logo {
+    padding: 0;
+    margin: 0;
+    text-decoration: none;
+    color: rgb(206, 217, 230);
+
+    font-size: 40px;
+}
+
+
+.head {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+    padding: 0px 30px;
+
+    width: 70vw;
+    height: 80px;
+
+    /* background-color: rgb(8, 14, 20); */
 }
